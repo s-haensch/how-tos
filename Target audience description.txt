@@ -1,0 +1,17 @@
+Target audience description:
+
+
+-  Basic social criteria: age/gender
+-  Professional skill set (designer, developer, copywriter)
+-  A certain stage of professional/personal development (student, employee, freelancer, consultant, product owner, business owner)
+-  A certain stage of business development (getting ready to launch, gaining initial traction, scaling)
+-  A certain function they perform within their business (email marketing, sales, social media marketing, user onboarding)
+-  Certain software products they’re already using
+-  Certain places they hang out online
+-  Certain books/blogs/websites/forums they read or participate in
+-  Certain events/conferences/meetups they attend
+
+
+You can explore support forums of competing software to know the customer's pain points
+
+ find out what people like about the product, and make your strengths stronger
