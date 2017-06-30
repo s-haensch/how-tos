@@ -1,0 +1,737 @@
+Standort Name;Adresse
+Henkel AG & Co. KGaA;"Henkelstra§e 67
+      40589
+            Düsseldorf
+      Germany"
+Henkel Norden AB;"Gustavslundsvägen 151A
+      Box 151 22
+        167 15
+             Bromma
+      Sweden"
+Henkel Norden AB;"Gustavslundsvägen 151A
+      Box 151 22
+        167 15
+             Bromma
+      Sverige"
+Henkel Belgium N.V.;"Havenlaan 16
+      1080
+             Brussels
+      Belgium"
+Henkel Magyarország Kft.;"Dávid Ferenc utca 6.
+      1113
+             Budapest
+      Hungary"
+Henkel Nederland B.V.;"Brugwal 11
+      3432 NZ
+             Nieuwegein
+      Netherlands"
+Henkel Ibérica S.A.;"Bilbao, 72-84
+      08005
+            Barcelona
+      Spain"
+Henkel Srbija d.o.o.;"Bulevar Oslobo_enja 383
+      11040
+            Belgrad
+      Serbia"
+Henkel France S.A.S.;"161, Rue de Silly
+      92100
+            Boulogne-Billancourt
+      France"
+Henkel Ireland Operations and Research Ltd.;"Tallaght Business Park
+      Whitestown
+      Tallaght,
+            Dublin
+            24
+      Ireland"
+Henkel Ltd.;"Wood Lane End
+      Hemel Hempstead,
+              Herts
+            HP2 4RQ
+      United Kingdom"
+Henkel Italia Srl;"Via C. Amoretti 78
+      20157
+            Milan
+      Italy"
+Henkel Italia Srl;"Via C. Amoretti 78
+      20157
+            Milan
+      Italy"
+OOO Henkel RUS;"Odoevskogo street, 117
+      220018
+            Minsk,
+      Belarus"
+Henkel Bautechnik;"Kolokolnikov pereulok, 11
+      107045
+            Moscow
+      Russia"
+Henkel Balti;"S›bra 56 B
+      51013
+            Tartu
+      Estonia"
+Henkel Norden Oy (Finnish lead office);"Mäenpäänkatu 3
+      37630
+            Valkeakoski
+      Suomi"
+Henkel Norden Oy;"€yritie 12 A
+      01510
+            Vantaa
+      Finland"
+Henkel Polska Sp. z o.o.;"ul. Domaniewska 41
+      02-672
+            Warsaw
+      Poland"
+Henkel & Cie. AG;"Gäsgerstrasse 81
+      5015
+             ErlinsbachSO
+      Switzerland"
+Henkel Ukraine TOW;"Saksaganskogo street 120
+      Europa Plaza
+      01032
+             Kiev
+      Ukraine"
+Henkel Bautechnik;"Building 1A
+      Krasnoarmeyskaya 1A
+      Moscow region
+        140413
+             Kolomna
+      Russia"
+Henkel Srbija d.o.o.;"Stanoja Atanackovi_a bb
+      37000
+             Kru_evac
+      Serbia"
+Henkel Magyarország Kft.;"Vásártér 2.
+      5516
+             Käräsladány
+      Hungary"
+Henkel Nederland B.V.;"Haven Noordzijde 6
+      9679 TC
+             Scheemda
+      Netherlands"
+OOO Henkel RUS;"Zhukova st., 35B, office 8
+      Samara Region
+      445051
+             Tolyatti
+      Russia"
+Henkel Latvia SIA;"Laisves Str. 77B
+      06122
+             Vilnius
+      Lithuania"
+Henkel Bautechnik Kazakhstan, LLP;"78, Masanchi street
+      050012
+            Almaty
+      Kazakhstan"
+Henkel Central Asia & Caucasus, LLP;"78, Masanchi street
+      050012
+            Almaty
+      Kazakhstan"
+Henkel Global Supply Chain B.V.;"Gustav Mahlerlaan 2970
+      1081 LA
+            Amsterdam
+      Netherlands"
+Henkel Hellas S.A.;"23, Kyprou Street
+      183 46
+            Moschato,Athens
+      Greece"
+Henkel Ibérica S.A.;"Avenida de la Técnica, 14-D
+      Pol. Ind. El Comendador
+      19200
+            Azuqueca de Henares (Guadalajara)
+      Spain"
+Henkel Norden AB;"Industriparken 21 A
+      2750
+            Ballerup
+      Denmark"
+Henkel Ibérica S.A.;"Girona, 2 Bis
+      08010
+            Barcelona
+      Espa–a"
+Spotless Iberia S.L.;"Llacuna 22 4»
+      08005
+            Barcelona
+      Spain"
+Henkel Ibérica S.A.;"Building Eureka
+      Campus de la UAB Bellaterra
+      08193
+            Bellaterra (Barcelona)
+      Spain"
+Henkel Polska Sp. z o.o.;"ul. Grazynskiego 141
+      (Fiat-GM-Powertrain Hala 2)
+      43-300
+            Bielsko Biala
+      Poland"
+Henkel Ibérica Portugal, Unipessoal Lda.;"Rua D. Nuno çlvares Pereira, N¼ 4 e 4A
+      Pol’gono das Actividades Ec—nomicas
+      Parque Oriente - Blocos 1 e 2
+        2695-167
+            Bobadela
+      Portugal"
+Henkel AG & Co. KGaA;"Kirchheimer Str. 9
+      73441
+            Bopfingen
+      Germany"
+Henkel Slovensko, spol. s.r.o.;"Zahradnicka 91
+      821 08
+            Bratislava
+      Slovakia"
+Henkel Romania S.R.L.;"Str. Ionita Vornicul Nr. 1-7
+      Sector 2
+      20325
+            Bukarest
+      Romania"
+Henkel Italia Srl;"Via Don Minzoni 1
+      20090
+            Caleppio di Settala (MI)
+      Italy"
+Henkel Italia Srl;"Via Don Minzoni 1
+      20090
+            Caleppio di Settala (MI)
+      Italy"
+Guaber S.r.l.;"Via Isonzo  67
+      40033
+            Casalecchio di Reno (Bologna)
+      Italy"
+Henkel Italia Srl;"Via Puccini 65/67
+      20080
+            Casarile (MI)
+      Italy"
+Henkel Italia Srl;"Via Puccini 65/67
+      20080
+            Casarile (MI)
+      Italy"
+Henkel Italia Srl;"Via Vigevano 27
+      28065
+            Cerano (NO)
+      Italy"
+Henkel Italia Srl;"Via Vigevano 27
+      28065
+            Cerano (NO)
+      Italy"
+Henkel Polska Sp. z o.o.;"ul. Chabrowa 3
+      06-400
+            Ciechan—w
+      Poland"
+Punch Industries Ltd;"Wallingstown
+      Little Island
+      Cork
+      Ireland"
+GPM-Henkel Ltd.;"1, Nicosia Street
+      Dali Industrial Area
+      2540
+            Dali
+      Cyprus"
+Henkel Belgium N.V.;"Anderlechtstraat 33
+      1620
+            Drogenbos
+      Belgium"
+Henkel Ireland Operations and Research Ltd.;"Kylemore Park North
+      Ballyfermot
+      Dublin
+      Ireland"
+Spotless Punch Ireland Ltd.;"Macro II, Unit 4
+      Plato Business Park Damastown
+      Dublin
+            15
+      Ireland"
+Henkel Polska Sp. z o.o.;"ul. Pieszycka 6
+      58-200
+            Dzierzoni—w
+      Poland"
+OOO Henkel RUS;"Stroitely prospekt, 46
+      Saratov oblast
+      413116
+            Engels
+      Russia"
+Laboratorio Chimico;"Strada del Marano, 95
+      Faetano,
+            47896
+      San Marino"
+Henkel Italia Srl;"Localitˆ Ponte della Pietra
+      03013
+            Ferentino (FR)
+      Italy"
+Henkel Italia Srl;"Localitˆ Ponte della Pietra
+      03013
+            Ferentino (FR)
+      Italy"
+Henkel AG & Co. KGaA;"Gutenbergstr. 3
+      85748
+            Garching
+      Germany"
+Henkel Polska Sp. z o.o.;"ul. Sk_adowa 13
+      _erniki
+      62-023
+            G_dki
+      Poland"
+The Bergquist Company GmbH;"Verbindungsweg 42
+      25469
+            Halstenbek
+      Deutschland"
+Henkel AG & Co. KGaA;"Hohenzollernring 127 - 129
+      22763
+            Hamburg
+      German"
+Henkel AG & Co. KGaA;"Sichelstra§e 1
+      30453
+            Hannover
+      Germany"
+Henkel AG & Co. KGaA;"Henkel Teroson Stra§e 57
+      69112
+            Heidelberg
+      Germany"
+Henkel AG & Co. KGaA;"Rudolf-Breitscheid-Str. 41
+      01809
+            Heidenau
+      Germany"
+Boston Scandinavia AB;"Berga Allé 1
+      254 52
+            Helsingborg
+      Sweden"
+Henkel Norden Oy;"Eteläinen Rautatienkatu 12 / Runeberginkatu 5
+      00100
+            Helsinki
+      Finland"
+Henkel AG & Co. KGaA;"Collardinstra§e
+      35745
+            Herborn-Schänbach
+      Germany"
+Henkel Srbija d.o.o.;"Save Kova_evi_a bb
+      22000
+            Indjija
+      Serbia"
+Henkel Bautechnik;"Building 9d
+      Roza settlement, Schorsa street-side
+      Chelyabinsk region
+        140413
+            Korkino
+      Russia"
+Henkel AG & Co. KGaA;"Hentrichstr. 17-25
+      47809
+            Krefeld
+      Germany"
+Henkel Magyarország Kft.;"Üveggyár utca 10.
+      2851
+            Kärnye
+      Hungary"
+Punch Industries (UK) Ltd.;"Wallingstown
+      Little Island Co. Cork
+      Ireland"
+Henkel Slovenija d.o.o.;"Barjanska cesta 54
+      1000
+            Ljubljana
+      Slovenia"
+Henkel Italia Srl;"Viale Como 22
+      22074
+            Lomazzo (CO)
+      Italy"
+Henkel Italia Srl;"Viale Como 22
+      22074
+            Lomazzo (CO)
+      Italy"
+Schwarzkopf ASK Education Academy;"74 - 78 Seymour Place
+      London,
+              Berks
+            W1H 2EH
+      United Kingdom"
+Henkel Ibérica S.A.;"L—pez de Hoyos 5, bis bajos izda
+      28006
+            Madrid
+      Espa–a"
+Henkel Slovenija d.o.o.;"Industrijska ulica 23
+      2506
+            Maribor
+      Slovenia"
+Henkel Ibérica S.A.;"Vial norte, 2
+      Pol. Ind. Concentraci— Industrial La Vallesana (Riera Marsá)
+      08170
+            Montornés del Vallés (Barcelona)
+      Spain"
+OOO Henkel RUS;"Business center ""Europe House""
+      Kolokolnikov pereulok, 11
+      107045
+            Moscow
+      Russia"
+OOO Wellchem;"
+  Industrial area 1
+      Severo-zapadnee 2km poselka imeni Vorovskogo
+      Noginsk area
+        Moscow region
+      "
+Henkel Adhesive Technologies Norden AB;"Torsgatan 12
+      Box 120 33
+        600 12
+            Norrkäping
+      Sverige"
+Henkel Adhesive Technologies Norden AB;"Torsgatan 12
+      Box 120 33
+        600 12
+            Norrkäping
+      Sweden"
+Henkel Bautechnik;"
+  Industrial area 27
+      v. Marusino Krivodanovskogo selsoveta
+      Novosibirsk region
+      "
+Henkel Norden AB;"Karenslyst Allé 8b
+      0278
+            Oslo
+      Norway"
+Henkel Polska Sp. z o.o.;"ul. Ceramiczna 7, O_tarzew
+      05-850
+            O_ar—w Mazowiecki
+      Poland"
+OOO Henkel RUS;"Lasvinskaya street, 88
+      Perm krai
+      614113
+            Perm
+      Russia"
+Henkel AG & Co. KGaA;"Hausberger Stra§e 14
+      32457
+            Porta Westfalica
+      Germany"
+Henkel CR, spol. s.r.o.;"U Pruhonu 10
+      17004
+            Prague7
+      Czech Republic"
+Henkel & Cie. AG;"Salinenstrasse 61
+      4133
+            Pratteln
+      Switzerland"
+Henkel Makroflex AS;"Savi 12
+      80010
+            Pärnu
+      Estonia"
+Henkel Polska Sp. z o.o.;"ul. Stalowa 9
+      47-400
+            Racib—rz
+      Poland"
+Henkel Ltd.;"Betchworth House
+      57-65 Station Road
+      Redhill,
+            RH1 1DL
+      United Kingdom"
+Spotless Punch Ltd.;"Betchworth House
+      57-65 Station Road
+      Redhill,
+            RH1 1DL
+      United Kingdom"
+Henkel Latvia SIA;"Ropazu iela 10/B2
+      1039
+            Riga
+      Latvia"
+Henkel France S.A.S.;"2, Rue des ƒtangs
+      B. P. 539
+        77140
+            Saint Pierre les Nemours
+      France"
+Henkel Technologies France S.A.S.;"Parc Aktiland
+      1 rue de Lombardie
+      69400
+            Saint-Priest
+      France"
+Eau Ecarlate SAS;"28, rue de la Résistance
+      91707
+            Sainte-Genevive-des-Bois Cedex
+      France"
+Henkel BH d.o.o.;"Trg. Solidarnosti 2A
+      71000
+            Sarajevo
+      Bosnia-Herzegovina"
+Henkel Technologies France S.A.S.;"Arlington Square
+      Parc d'entreprises du Val d'Europe
+      8 Boulevard Michael Farada
+      77716
+            Serris, Marne la Vallée cedex 4
+      France"
+Henkel Ltd.;"957/958 Buckingham Avenue
+      Slough,
+              Berks
+            SL1 4NL
+      United Kingdom"
+Henkel Bulgaria EOOD;"Building 2, floor 4
+      Mladost 4
+      1766
+            Sofia
+      Bulgaria"
+Henkel Bautechnik;"Torgovaya Street 41
+      Kochubeevskoye Village
+      Kochubeevsky Region
+        357000
+            Stavropol Region
+      Russia"
+Henkel Polska Sp. z o.o.;"64-905
+            Stobno
+      Poland"
+Henkel Polska Sp. z o.o.;"Stara G—ra, skrytka pocztowa 24
+      26-220
+            St_pork—w
+      Poland"
+Henkel Makroflex AS;"S›pruse pst. 145
+      13417
+            Tallinn
+      Estonia"
+Henkel Ibérica Adhesive Technologies;"Av. Paisos Catalans 16
+      43007
+            Tarragona
+      Spain"
+OOO Henkel RUS;"Moskovskoye Shosse, 1
+      Leningrad Region
+      187000
+            Tosno
+      Russia"
+Henkel Polska Sp. z o.o.;"ul. Tury_ska 100
+      (teren Fiat Auto Poland / spawalnia)
+      43-100
+            Tychy
+      Poland"
+Henkel Bautechnik;"Building 1
+      Estonskoe pole
+      Sengeleevsky district, MO Tushninskoe selskoe poselenie
+      433390
+            Ulyanovsk
+      Russia"
+Henkel AG & Co. KGaA;"Hansastr. 118
+      59425
+            Unna
+      Germany"
+Henkel Norden Oy;"Mäenpäänkatu 3
+      37630
+            Valkeaskoski
+      Finland"
+Henkel Norden Oy (Production plant);"Mäenpäänkatu 3
+      37630
+            Valkeaskoski
+      Suomi"
+Henkel Technologies France S.A.S.;"1 Avenue des Bouleaux
+      Parc Alata
+      60550
+            Verneuil-en-Halatte
+      France"
+Henkel Central Eastern Europe GmbH;"Erdbergstra§e 29
+      1030
+            Vienna
+      Austria"
+Schwarzkopf & Henkel Production Europe GmbH & Co. KG;"Amerner Weg 7
+      41751
+            Viersen
+      Germany"
+Henkel Technologies France S.A.S.;"299 Rue de Grange Morin
+      Zone Industrielle Nord, Arnas
+      B. P. 438
+        69655
+            Villefranche sur Sa™ne
+      France"
+Henkel Bautechnik (Ukraine) TOW;"2, Novopromyslova Street
+      07300
+            Vyshghorod
+      Ukraine"
+Schwarzkopf & Henkel Production Europe GmbH & Co. KG;"Martha-Schwarzkopf-Stra§e 10
+      91717
+            Wassertrüdingen
+      Germany"
+Novamelt GmbH;"…flinger Strasse 120
+      79664
+            Wehr
+      Germany"
+Henkel Electronic Materials (Belgium) N.V.;"Nijverheidsstraat 7
+      2260
+            Westerlo
+      Belgium"
+Henkel Ltd.;"Road 5
+      Winsford Industrial Estate
+      Winsford,
+              Cheshire
+            CW7 3QY
+      United Kingdom"
+Henkel Croatia D.O.O.;"Budmanijeva 1
+      10000
+            Zagreb
+      Croatia"
+Henkel Bautechnik TAA;"Stroitelnaya Str., 1-1
+      Minsk district
+      223036
+            Zaslavl,
+      Belarus"
+Henkel Italia Srl;"Via Madrid 21
+      24040
+            Zingonia di Verdellino (BG)
+      Italy"
+Henkel Italia Srl;"Via Madrid 21
+      24040
+            Zingonia di Verdellino (BG)
+      Italy"
+         Henkel South Africa (Pty.) Ltd.;   55 Potgieter Street       Alrode Ext 4       1451             ,Alberton       South Africa
+         Henkel Jordan;   Marka       Next to Marka Bridge and Toyota spare parts warehouse       P. O. Box 7809         Amman             11118       Jordan
+         Henkel Egypt;   12 Kamal El-Din Hussien Street       behind Fairmont Towers Hotel, Heliopolis       Cairo       Egypt
+         Henkel South Africa (Pty.) Ltd.;   Unit B42 - 43       4 New Mill Road, Pinelands       Pinelands Business Park       7405             ,Cape Town, Western Cape       South Africa
+         Henkel Algérie S.P.A.;   22 rue Ahmed Ouaked       Bois des Cars III       16320             Dely-Ibrahim       Algeria
+         Henkel Jebel Ali FZCO;   Block F, 4th floor       Silicon Oasis       Dubai       United Arab Emirate
+         Türk Henkel Kimya San. ve Tic. A._.;   No:8 Buyaka _ki Sitesi, C Blok, K: 10-14       Fatih Sultan Mehmet Mah. Poligon Cad       34752             Ümraniye,Istanbul       Turkey
+         Henkel Kenya Ltd.;   Outer Ring Road       00100             Nairobi       Kenya
+         Henkel Soad Ltd.;   4 Arie Regev Street       P. O. Box 8167         4209001             Netanya       Israel
+         Henkel South Africa (Pty.) Ltd.;   205 Grahamstown Road       Deal Party       6012             ,Port Elizabeth, Eastern Cape       South Africa
+         Henkel South Africa (Pty.) Ltd.;   82 Roan Crescent       Corporate Park North       1683             ,Randjiesfontein, Gauteng       South Africa
+         Henkel South Africa (Pty.) Ltd.;   Unit D       10 Kubu Park Close       Big 5 Business Park       4017             ,Riverhorse Valley, KwaZulu-Natal       South Africa
+         Henkel Saudi Arabia Detergents Co. Ltd.;   New Industrial City       2nd Zone-D       P. O. Box 25790         11476             Riyadh       Saudi-Arabia
+         Henkel Tunisie S.A.;   Résidence les jardins du Lac       Imm. Idriss, Les Berges du Lac 2       P. O. Box 419         1053             Tunis       Tunisia
+         Henkel Vietnam Co. Ltd.;   Suite 1001, 10th Floor, Centre Point Building       106 Nguyen Van Troi, Ward 8       Phu Nhuan District       Ho Chi Minh City       Vietnam
+         Henkel Adhesive Technologies India Private Limited;   D73/2, D74/2, D74/6, TTC Industrial Area       Off Thane Belapur Road, Turbhe Naka       Maharashtra       Navi Mumbai               -                          400705       India
+         Henkel Technologies (Korea) Ltd.;   1, 8,10, 13/F Henkel Tower       41, Mapo-daero4da-gil (Mapo-dong)       Mapo-gu       Seoul             (121-734)       Korea
+         Henkel (China) Investment Co. Ltd.;   No. 928 Zhang Heng Road       Pu Dong       Shanghai             201203       China
+         Henkel Japan Ltd.;   140-0002       Tokyo       Shinagawa-ku       2-2-8 HigashiShinagawa       14F Sphere Tower Tennoz       Japan
+         __ ___;   __ __ 1, 8, 10, 13_       ____ 4__ 41 (___)       ___       _____             (121-734)       ____
+         Henkel Japan Ltd.;   460-0002       Aichi       Naka-ku, Nagoya       2-18-15 Marunouchi       6F 51 KT Building       Japan
+         Schwarzkopf & Henkel K.K.;   460-0002       Aichi       Naka-ku, Nagoya       2-18-15 Marunouchi       6F 51 KT Building       Japan
+         Henkel New Zealand Ltd.;   2 Allens Road       East Tamaki       Auckland        New Zealand
+         Henkel (Thailand) Ltd.;   999/9 The offices at Centralworld 35/F       Rama 1 Rd.       Khwaeng Patumwan, Khet Patumwan       Bangkok             10330       Thailand
+         Henkel (China) Co. Ltd.;   Room 801, Sunpalace       No.12A Middle Taiyanggong Road       Chaoyang District       Beijing             100028       China
+         Henkel Vietnam Co. Ltd.;   Lot G1       Viet Huong Industrial Park       Thuan An District       Binh Duong Province       Vietnam
+         Henkel Technologies (Korea) Ltd.;   99, Sinsan-ro (Sinpyeong-dong)       Saha-gu       Busan             (604-030)       Korea
+         Henkel Philippines, Inc.;   LSL Building, Diode Street       Light Industry & Science Park of the Philippines (LISPP) I       Brgy. Diezmo       4025             Cabuyao, Laguna,       Philippines
+         Chengdu Henkel Adhesive Techonologies Co. Ltd.;   No.128 Long'an Road       Longquanyi District       Chengdu             610100       China
+         Henkel Adhesive Technologies India Private Limited;   3rd Floor, Arunodayam, No. 14 & 16, Raman Street       North Boag Road       T. Nagar       Chennai               -                          600017Tamil Nadu       India
+         Henkel Teroson India Private Limited;   Plot No. C-22, SIPOT Industrial Park       Irungattukottai, Sriperumbudur Taluk       Tamil Nadu       Chennai               -                          602105       India
+         Yamahatsu (Thailand) Co., Ltd. (Beauty Care Manufacturing Plant);   600/48 Moo 11       Sukaphiban 8 Rd.       Nongkham, Sriracha       Chonburi             20230       Thailand
+         Henkel (Thailand) Ltd. (Adhesive Technologies Manufacturing Plant);   700/349 M.6       Amata Nakorn Industrial Estate, Bangna-Trad KM.57        Nongmaidaeng, Muang       Chonburi              20000       Thailand
+         Henkel Technologies (Korea) Ltd.;   1298, Daegeum-ro       Geumwang-eup, Eumseong-gun       Chungcheongbuk-do             (369-906)       Korea
+         Henkel Technologies (Korea) Ltd.;   292, Seongnam-ro       Seongnam-myeon, Cheonan-si Dongnam-gu       Chungcheongnam-do             (330-891)       Korea
+         Henkel Adhesive Technologies Vietnam Co. Ltd.;   No 7, Road 9A Bien Hoa II Industrial Zone       Bien Hoa City       Dong Nai Province       Vietnam
+         Henkel Japan Ltd.;   810-0004       Fukuoka       Chuo-ku, Fukuoka       3-6-15 Watanabe-dori       2F NOF Tenjin Minami Building       Japan
+         Schwarzkopf & Henkel K.K.;   810-0004       Fukuoka       Chuo-ku, Fukuoka       3-6-15 Watanabe-dori       2F NOF Tenjin Minami Building       Japan
+         Henkel Adhesives Co. Ltd.;   Xiapeng District, Zone Dongxia, Shantou City       Guangdong Province             515065       China
+         Henkel Adhesives Technologies (Guangdong) Co. Ltd.;   The fifth Industry Zone       Nanshan, Humen Town, Dongwan       Guangdong Province             523932       China
+         Guangzhou National Adhesives Co. Ltd.;   No.33, Liye Road, Dongyong Town       Nansha District       Guangzhou             511453       China
+         Guangzhou Henkel Surface Technologies Co. Ltd.;   No. 9 NanYun Er Road       GZ Science City, Guangzhou City       Guangzhou Province             510663       China
+         Henkel Adhesive Technologies India Private Limited;   Centrum Plaza, 3rd Floor, No.312       HKLM, Golf Course Road, Sector 53       Haryana       Gurgaon               -                          122002       India
+         Henkel Anand India Private Limited;   77, Industrial Development Colony       Mehrauli Gurgaon Road       Gurgaon                -                          122001Haryana       India
+         Henkel Japan Ltd.;   732-0824       Hiroshima       Minami-ku       1-1-21, Matoba-cho       Crystal Tower Building 606       Japan
+         Henkel Ablestik Japan Ltd.;   069-1507       Hokkaido       Kuriyama-cho, Yubari-gun       23-87 Asahi-dai       Japan
+         Henkel Hong Kong Holding Ltd.;   9/F, No. 169 Electric Road       Hong Kong             510620       Hong Kong (China)
+         Henkel (China) Co. Ltd.;   The fifteenth industrial area       Wuhan Development Zone, Wuhan City       Hubei Province             430056       China
+         Henkel Japan Ltd.;   675-0011       Hyogo       Kakogawa       825, Kitano, Noguchi-cho       Japan
+         PT Henkel Indonesia;   Talavera Office Park, 21st Floor       Jl. Letjen TB Simatupang Kav. 22-26       Jakarta             12430       Indonesia
+         PT Henkel Indonesia;   Talavera Office Park, 21st Floor       Jl. Letjen TB Simatupang Kav. 22-26       Jakarta             12430       Indonesia
+         Henkel Adhesive Technologies India Private Limited;   D3/D4, M.I.D.C. Industrial Estate       Distr. Pune, Maharashtra       Jejuri               -                          412300       India
+         Henkel Huawei Electronics Co. Ltd.;   No. 8 Zhenhua Road, Songtiao Exploited Area       Lianyungang       222006             Jiangsu Province       China
+         Henkel (Jiangsu) Auto Parts Co. Ltd.;   Qunyi Industry Zone, Xinqiao Town       Danyang City       Jiangsu Province             212322       China
+         Changchun Henkel Surface Technologies Co. Ltd.;   No. 6077 Chao Da Road       Hi-tech District Changchun       Jilin Province             130012       China
+         Henkel Ablestik Japan Ltd.;   235-0017       Kanagawa       Isogo-ku, Yokohama       27-7 Shin Isogo-cho       Japan
+         Henkel Japan Ltd.;   235-0017       Kanagawa       Isogo-ku, Yokohama       27-7 Shin Isogo-cho       Japan
+         Henkel Australia Pty. Ltd.;   135-141 Canterbury Road       3137             Kilsyth, VIC,       Australia
+         Henkel (Malaysia) Sdn. Bhd.;   Level 46 Menara Telekom       Jalan Pantai Bahru       50672             Kuala Lumpur       Malaysia
+         Henkel Industrial Adhesives Pakistan (Pvt.) Limited;   2nd Floor, 17-N       Johar Town       Lahore,       Pakistan
+         Henkel Asia Pacific Service Centre;   31th Floor LKG Tower       6801 Ayala Ave       40251226             Makati City,       Philippines
+         Henkel Adhesive Technologies India Private Limited;   Plot No.1/1, Part 2, TTC Industrial Area       Thane Belapur Road, Koparkhairrne       Maharashtra       Navi Mumbai               -                          400710       India
+         Henkel Adhesive Technologies India Private Limited;   Kesar Solitaire, 10th Floor, Plot No. 5, Sector - 19       Palm Beach Road, Sanpada       Maharashtra       Navi Mumbai               -                          400705       India
+         Henkel Chembond Surface Technologies Limited;   Chembond Centre       EL-71, MIDC Mahape       Maharashtra       Navi Mumbai               -                          400705       India
+         Henkel Japan Ltd.;   562-8586       Osaka       Minoo       1-11-9, Semba-higashi       Japan
+         Henkel Japan Ltd.;   550-0015       Osaka       Nishi-ku, Osaka       1-1-14 Minamihorie       2F Yotsubashi Nakano Building       Japan
+         Schwarzkopf & Henkel K.K.;   550-0015       Osaka       Nishi-ku, Osaka       1-1-14 Minamihorie       2F Yotsubashi Nakano Building       Japan
+         PT Henkel Adhesive Technologies (Adhesive Technologies Manufacturing Plant);   Jl. Rembang Industri Raya No. 26       Kawasan Pier        Jawa Timur         Pasuruan              67152       Indonesia
+         PT Henkel Adhesive Technologies (Adhesive Technologies Manufacturing Plant);   Jl. Rembang Industri Raya No. 26       Kawasan Pier        Jawa Timur         Pasuruan              67152       Indonesia
+         Henkel Adhesive Technologies India Private Limited;   234, 235 and 245, Phase 1       Hinjewadi, Taluka Mulshi       Maharashtra       Pune               -                          411057       India
+         Henkel Adhesive Technologies India Private Limited;   Plot No. 71 & 72, Sector - 3, I.I.E Pantnagar, S.I.D.C.U.L.       Udham Singh Nagar       Uttarakhand       Rudrapur               -                          263153       India
+         Henkel (Siam) Adhesive Technologies Ltd. (Adhesive Technologies Manufacturing Plant);   212 Moo1 Teparak Rd.       Amphur Bangsathong       Samutprakarn             10540       Thailand
+         Henkel (Malaysia) Sdn. Bhd.;   Lot 8 & 10 Jalan Tukul       16/5 Shah Alam       40000             Selangor       Malaysia
+         Bergquist Korea;   Dongil Techno Town #5303       202-6 Anyang 7 Dong       Manan-gu, Anyang-si       Gyeonggi-do         Seoul             (430-817)       Korea
+         Henkel Home Care Korea Ltd.;   5/F Union Steel Building       412, Teheran-ro (Daechi-dong)       Gangnam-gu       Seoul             (135-524)       Korea
+         Henkel Technologies (Korea) Ltd.;   6F, DaeRyung Techno Town II       33-33, Gasandigital 1-ro (Gasan-dong)       Geumcheon-gu       Seoul             (153-771)       Korea
+         Henkel Loctite (China) Co. Ltd.;   No. 90 Zhu Jiang Road       Yantai Economic Technological Development Zone       Shandong Province             264006       China
+         Henkel (China) Co. Ltd.;   188 Hangao Road, Zhuqiao Town       Nanhui District, Pu Dong       Shanghai             201324       China
+         Henkel (China) Investment Co. Ltd.;   5F&6F, Building 6, The Springs Center       No.99 Jiang Wan Cheng Road       Yangpu District       Shanghai             200438       China
+         Ablestik (Shanghai) Co. Ltd.;   No. 332 Meigui South Road       Waigaoqiao, Pu Dong       Shanghai             200131       China
+         Henkel Chemical Technologies (Shanghai) Ltd.;   No.36 Pugong Road       Shanghai Chemical Industry Park       Shanghai             201400       China
+         Henkel Xianghua Adhesives Co. Ltd.;   No.115 Yingjun Road       Zhangjiang Town, Pu Dong       Shanghai             201210       China
+         The Bergquist Company Shenzen;   Room 401-1, Type A, Block E4, TCL Science Park       No.1001 Zhongshan Park Road, Xili       Nanshan District       Heao, Henggang, Longgang         Shenzhen       China
+         Henkel Japan Ltd.;   529-1608       Shiga       Gamo-gun       341 Higashiyama, Otani, Hino-cho       Japan
+         Henkel Singapore Pte. Ltd.;   Techno Centre       401 Commonwealth Drive, 03-01/02 Haw Par       149598             Singapore       Singapore
+         Henkel Taiwan Ltd.;   10F, No. 866, ZhongZheng Road       ZhongHe District, New Taipei City       Taiwan             23586       Taiwan (Republic of China)
+         PT Henkel Footwear and Speciality Adhesives ;   Jl. Raya Pajajaran No. 121       Kel. Gandasari Kec. Jatiuwung       Tangerang             15137       Indonesia
+         PT Henkel Footwear and Speciality Adhesives ;   Jl. Raya Pajajaran No. 121       Kel. Gandasari Kec. Jatiuwung       Tangerang             15137       Indonesia
+         Henkel Japan Ltd.;   105-7103       Tokyo       Minato-ku       1-5-2 Higashi Shimbashi       3F Shiodome City Center       Japan
+         Henkel Japan Ltd.;   140-0002       Tokyo       Shinagawa-ku       2-5-5 Higashi Shinagawa       4F HarborOne Building       Japan
+         Schwarzkopf & Henkel K.K.;   140-0002       Tokyo       Shinagawa-ku       2-2-8 HigashiShinagawa       14F Sphere Tower Tennoz       Japan
+         Schwarzkopf & Henkel K.K.;   140-0002       Tokyo       Higashi Shinagawa, Shinagawa-ku       2-5-5       4F HarborOne Building       Japan
+         The Bergquist Company Zhuhai Limited;   Block 1, No. 524, Anji East Road       Sanzao Town, Jin Wan Qu       Zhuhai, Guangdong             519000       China
+         ____ ___;   __ ___ __ 5_ 503_       __ 7_ 202-6       ___ ___       ___       ____
+         __ ______ ___;   ___ 99 (___)       ___       _____             (604-030)       ____
+         __ ______ ___;   _______ 2_ 6_       _____1_ 33-33(___)       ___       _____             (153-771)       ____
+         __ ___ ___;   __2__ 5_       ____ 412 (___)       ___       _____             (135-524)       ____
+         __ ______ ___;   ___ 292       ___ ___ ___       ____              (330-891)       ____
+         __ ______ ___;   ___ 1298       ___ ___       ____             (369-906)       ____
+         Henkel S‹o Paulo;   Avenida Paulista, 777 - térreo       CEP: 01311-914                            -              S‹o Paulo               -             SP       Brasil
+         Henkel Argentina S.A.;   1357 Nicolás Avellaneda Street       B1642EYA             San Isidro,Buenos Aires       Argentina
+         Henkel Capital S.A. de C.V.;   Boulevard Magnocentro No. 8, Piso 2       Centro Urbano Interlomas       52760             Huixquilucan Edo de Mex       Mexico
+         Henkel  Jundia’;   Avenida José Alves de Oliveira, 1000       CEP: 13213-105                            -              Jundia’               -             SP       Brasil
+         Henkel Jamaica Ltd.;   36-38 Red Hills Road       10              Kingston       Jamaica
+         Henkel Colombiana S.A.S.;   Calle 17 No. 68b-97       Zona Industrial de Montevideo       Bogotá D.C.       Colombia
+         Henkel Argentina S. A.;   Ruta Nacional N¡5 Km. 159,5       Industrial Park       B6620             ,Chivilcoy       Argentina
+         Henkel Centroamericana S.A.;   Interamericas World Financial Center, Torre Norte, Nivel 15       Diagonal 6, 10-50       Zona 10       Ciudad Guatemal       Guatemala
+         Henkel La Luz S.A.;   Interamericas World Financial Center, Torre Norte, Nivel 15       Diagonal 6, 10-50       Zona 10       Ciudad Guatemal       Guatemala
+         Henkel Diadema;   Rua Karl Huller, 136       CEP: 09941-410                            -             Diadema               -             SP       Brasil
+         Henkel Capital S.A. de C.V.;   Lic. Angel Otero Rivero No. 8       Col. Industrias Tulpetlac       55107             Ecatepec Edo de Mex       Mexico
+         Henkel Venezolana S.A.;   Calle 2, Carretera Nacional Guacara - San Joaqu’n       Zona Industrial Pruinca       Guacara - Estado de Carabobo       Venezuela
+         Henkel La Luz S.A.;   KM. 18.5 Carretera Vieja Antigua 16-81       Zona 1       Mixco         Guatemala, C.A.       Guatemala
+         Henkel Itapevi;   Avenida Professor Vernon Krieble, 91       CEP: 06690-070                            -             Itapevi               -             SP       Brasil
+         Henkel Peruana S.A.;   Avenue Los Frutales 101       ATE - Vitarte       Lima       Peru
+         Henkel Capital S.A. de C.V.;   Av. Chapultepec No. 2244       Col. Bueno Aires       64800             Monterrey, Nuevo Le—n       Mexico
+         Henkel Capital S.A. de C.V.;   Calzada Azcapotzalco La Villa No 705       Col Industrial Vallejo       02300             México D.F.       Mexico
+         Henkel Ecuatoriana S.A.;   Ed. Alpallana II, 6th floor       La Alpallana E7-212 y Diego de Almagro       Quito       Equador
+         Henkel Chile Ltda.;   Avenida Laguna Sur 9551       Parque Industrial Puerto Santiago, Comuna de Pudahuel       9060987             Regi—n Metropolitana de Santiago       Chile
+         Henkel Puerto Rico Inc.;   Quilinchini Avenue 9       00637             Sabana Grande       Puerto Rico
+         Henkel Capital S.A. de C.V.;   Km 312 Carretera Panamericana Tramo Celaya-Salamanca       Salamanca Centro       36700             Salamanca Guanajuato       Mexico
+         Henkel Costa Rica Ltda.;   100 Mts sur y 50 Mts Oeste de Celebrity Lovable       101-3007             San Joaquin de Flores,Heredia       Costa Rica
+         Henkel Republica Dominicana SRL;   Calle Haim L—pez Penha #21       Ensanche Para’so       Santo Domingo,D.N.       Dominican Republic
+         Henkel Capital S.A. de C.V.;   Paseo Tollocan esq Marie Curie S/N       Zona Industrial Toluca       50140             Toluca Edo de Mex       Mexico
+         Henkel Capital S.A. de C.V.;   Carretera a San Pedro Totoltepec No. 107       Col. Coesillos       50246             Toluca Edo de Mex       Mexico
+         Henkel Capital S.A. de C.V.;   Eje 3 Norte y Calle 4 Norte, Manzana E, Lote 1       Parque Industrial Toluca 2000       50200             Toluca Edo de Mex       Mexico
+         Henkel Canada Corporation;   2515 Meadowpine Boulevard       L5N 6C3             Mississauga,Ontario       Canada
+         Henkel Corporation;   One Henkel Way       Rocky Hill,               CT             06067       United States
+         Novamelt Americas, LLC;   5608 Uwharrie Road       Archdale,               NC             27263       United States
+         Henkel Corporation;   2850 Willow Pass Road       Bay Point,               CA             94565       United States
+         Henkel Corporation;   742 Grayson Street       Berkeley,               CA             94710       United States
+         The Bergquist Company;   61959 State Hwy 38       Bigfork,               MN             56628       United States
+         The Bergquist Company;   600 Willow Street       Brandon,               SD             57005       United States
+         Henkel Corporation;   10 Finderne Avenue       Bridgewater,               NJ             08807       United States
+         Henkel Corporation;   923 Mauldin Road N. W.       Calhoun,               GA             30701       United States
+         The Bergquist Company;   301 Washington Street West       Cannon Falls,               MN             55009       United States
+         Henkel Corporation;   203 MacKenan Court       Cary,               NC             27511       United States
+         The Bergquist Company;   18930 West 78th Street       Chanhassen,               MN             55317       United States
+         Henkel Consumer Goods Inc.;   9115 Harris Corners Parkway, Suite 30       Charlotte,               NC             28269       United States
+         Sexy Hair Concepts, LLC;   21551 Prairie Street       Chatsworth,               CA             91311       United States
+         Henkel Corporation;   9435 Waterstone Boulevard, Suite 200       Cincinnati,               OH             45249       United States
+         Henkel Corporation;   18731 Cranwood Parkway       Cleveland,               OH             44128       United States
+         Henkel Consumer Goods Inc.;   600 Corporate Pointe, Suite 400       Culver City,               CA             90230       United States
+         Henkel Corporation;   421 London Road       Delaware,               OH             43015       United States
+         Henkel Corporation;   1345 Gasket Drive       Elgin,               IL             60120       United States
+         Henkel Corporation;   14351 Highway 221       Enoree,               SC             29335       United States
+         Henkel Corporation;   9 Furman Hall Court       Greenville,               SC             29609       United States
+         Kenra Professional, LLC;   22 East Washington Street       Indianapolis,               IN             46204       United States
+         Henkel Corporation;   14000 Jamboree Road       Irvine,               CA             92606       United States
+         Henkel Corporation;   1600 Executive Drive       LaGrange,               GA             30240       United States
+         Henkel Corporation;   7101 Logistics Drive       Louisville,               KY             40258       United States
+         Henkel Corporation;   32100 Stephenson Highway       Madison Heights,               MI             48071       United States
+         Henkel Corporation;   4035 Senator Street       Memphis,               TN             38118       United States
+         Henkel Corporation;   7405 Production Drive       Mentor,               OH             44060       United States
+         Henkel Consumer Goods Inc.;   800 Marquette Avenue, Ste. 905E       Minneapolis,               MN             55402       United States
+         Henkel Corporation;   6200 Millcreek Drive       L5N OB5             Mississauga,Ontario       Canada
+         Henkel Corporation;   150 Fairview Road, Suite 255       Mooresville,               NC             28117       United States
+         Henkel Corporation;   210 Athens Way       Nashville,               TN             37228       United States
+         Alterna Holdings Corp;   551 5th Ave 27th Fl       New York,               NY             10176       United States
+         Henkel Corporation;   1350 Taney Street       North Kansas City,               MO             64116       United States
+         Henkel Corporation;   420 W. Marquette Avenue       Oak Creek,               WI             53154       United States
+         The Bergquist Company;   1600 Orrin Road       Prescott,               WI             54021       United States
+         Henkel Corporation;   20021 Susana Road       Rancho Dominguez,               CA             90221       United States
+         Henkel Corporation;   201 Highway 10 East       Richmond,               MO             64085       United States
+         Henkel Corporation;   4414 Sarellen Road       Richmond,               VA             23231       United States
+         Henkel Corporation and Henkel Consumer Goods Inc.;   2113 South 54th Street, Suite 2       Rogers,               AR             72758       United States
+         Henkel Corporation;   825 Cedar Springs Road, Unit H       Salisbury,               NC             28147       United States
+         Henkel Consumer Goods Inc.;   7201 E. Henkel Way       Scottsdale,               AZ             85255       United States
+         Henkel Corporation;   167 Batchelder Road       Seabrook,               NH             03874       United States
+         Henkel Resin Technology Group LLC;   28 Norfolk Avenue       South Easton,               MA             02375       United States
+         Henkel Corporation;   Building 106       730 Worcester Street       Springfield,               MA             01151       United States
+         Henkel Consumer Goods Inc.;   6901 McKissock Avenue       St. Louis,               MO             63147       United States
+         Henkel ASK Academy;   171 John Street, 2nd Floor       M5T 1X3             Toronto,Ontario       Canada
+         The Bergquist Company;   89 Commercial Blvd       Torrington,               CT             06790       United States
+         Henkel Corporation;   23343 Sherwood Avenue       Warren,               MI             48091       United States
+         Henkel Consumer Goods Inc.;   125 JayCee Drive       Valmont Industrial Park       West Hazleton,               PA             18202       United States
+         Henkel Corporation;   26235 First Street       Westlake,               OH             44145       United States
